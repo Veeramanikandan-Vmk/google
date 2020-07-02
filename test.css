@@ -1,0 +1,17 @@
+body {
+  background-color: #4C787E;
+}
+
+.flex-items {
+  padding: 5px;
+  margin: 5px;
+  background-color: #336666;
+}
+
+.flex-container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/*# sourceMappingURL=test.css.map */
